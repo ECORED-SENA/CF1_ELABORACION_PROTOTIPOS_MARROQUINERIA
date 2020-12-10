@@ -1,0 +1,278 @@
+[
+  {
+    "icon": "fa fa-home",
+    "slug": "external",
+    "title": "Volver al inicio",
+    "path": "index.html"
+  }, 
+  { 
+    "id": 1,
+    "icon": "fa fa-file-text-o",
+    "slug": "introduccion",
+    "title": "Introducción",
+    "breadcrumb": ["Inicio","intro"],
+    "path": "pages/intro.html"
+  }, 
+  { 
+    "id": 1,
+    "icon": "fa fa-file-text-o",
+    "slug": "proceso",
+    "title": "1. El proceso productivo en marroquinería.",
+    "breadcrumb": ["Inicio","Tema 1"],
+    "path": "pages/1-tema.html"
+  },
+  { 
+    "id": 1,
+    "icon": "fa fa-file-text-o",
+    "slug": "fichas_tecnicas",
+    "title": "2. Fichas técnicas para marroquinería.",
+    "breadcrumb": ["Inicio","Tema 2"],
+    "path": "pages/2-tema.html",    
+    "submenu": [
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "fichas_tecnicas",
+        "title": "2.1 Ficha técnica de diseño.",
+        "anchor": "21"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "fichas_tecnicas",
+        "title": "2.2 Ficha técnica de producción.",
+        "anchor": "22"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "fichas_tecnicas",
+        "title": "2.3 Ficha técnica de consumo.",
+        "anchor": "23"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "fichas_tecnicas",
+        "title": "2.4 Ficha técnica de desbaste.",
+        "anchor": "24"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "fichas_tecnicas",
+        "title": "2.5 Orden de producción.",
+        "anchor": "25"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "fichas_tecnicas",
+        "title": "2.6 Ficha técnica de procesos de producto.",
+        "anchor": "26"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "fichas_tecnicas",
+        "title": "2.7 Ficha técnica de moldes.",
+        "anchor": "27"
+      }
+    ]
+  }, 
+  { 
+    "id": 1,
+    "icon": "fa fa-file-text-o",
+    "slug": "unidades_de_medida",
+    "title": "3. Las unidades de medida.",
+    "breadcrumb": ["Inicio","Tema 3"],
+    "path": "pages/3-tema.html",    
+    "submenu": [
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "unidades_de_medida",
+        "title": "3.1 Metrología.",
+        "anchor": "31"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "unidades_de_medida",
+        "title": "3.2 Medición.",
+        "anchor": "32"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "unidades_de_medida",
+        "title": "3.3 Sistema Internacional (SI).",
+        "anchor": "33"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "unidades_de_medida",
+        "title": "3.4 Magnitud y unidades básicas.",
+        "anchor": "34"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "unidades_de_medida",
+        "title": "3.5 Múltiplos y submúltiplos del metro.",
+        "anchor": "35"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "unidades_de_medida",
+        "title": "3.6 Conversión del sistema inglés al SI.",
+        "anchor": "36"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "unidades_de_medida",
+        "title": "3.7 Unidades de medida del cuero.",
+        "anchor": "37"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "unidades_de_medida",
+        "title": "3.8 Instrumentos para medir utilizados en marroquinería.",
+        "anchor": "38"
+      }
+    ]
+  }, 
+  { 
+    "id": 1,
+    "icon": "fa fa-file-text-o",
+    "slug": "materiales_e_insumos",
+    "title": "4. Materiales e insumos utilizados en marroquinería.",
+    "breadcrumb": ["Inicio","Tema 4"],
+    "path": "pages/4-tema.html",    
+    "submenu": [
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "materiales_e_insumos",
+        "title": "4.1 Materiales.",
+        "anchor": "41"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "materiales_e_insumos",
+        "title": "4.2 Insumos.",
+        "anchor": "42"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "materiales_e_insumos",
+        "title": "4.3 Materiales para la elaboración de moldes.",
+        "anchor": "43"
+      }
+    ]
+  }, 
+  { 
+    "id": 1,
+    "icon": "fa fa-file-text-o",
+    "slug": "conceptos_basicos",
+    "title": "5. Conceptos básicos de diseño para marroquinería.",
+    "breadcrumb": ["Inicio","Tema 5"],
+    "path": "pages/5-tema.html",    
+    "submenu": [
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "conceptos_basicos",
+        "title": "5.1 La investigación para el diseño.",
+        "anchor": "51"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "conceptos_basicos",
+        "title": "5.2 Generar las alternativas.",
+        "anchor": "52"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "conceptos_basicos",
+        "title": "5.3 Seleccionar las alternativas de diseño.",
+        "anchor": "53"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "conceptos_basicos",
+        "title": "5.4 Evaluar las alternativas de acuerdo con los requerimientos de diseño.",
+        "anchor": "54"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "conceptos_basicos",
+        "title": "5.5 Evaluar el proceso productivo de acuerdo con el producto a desarrollar.",
+        "anchor": "55"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "conceptos_basicos",
+        "title": "5.6 El producto estándar.",
+        "anchor": "56"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "conceptos_basicos",
+        "title": "5.7 Desarrollar moldes del producto.",
+        "anchor": "57"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "conceptos_basicos",
+        "title": "5.8 Desarrollo del producto o prototipo.",
+        "anchor": "58"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "conceptos_basicos",
+        "title": "5.9 Evaluación del producto o prototipo.",
+        "anchor": "59"
+      }
+    ]
+  }, 
+  { 
+    "id": 1,
+    "icon": "fa fa-file-text-o",
+    "slug": "maquinaria",
+    "title": "6. La maquinaria para marroquinería.",
+    "breadcrumb": ["Inicio","Tema 6"],
+    "path": "pages/6-tema.html"
+  }, 
+  { 
+    "id": 1,
+    "icon": "fa fa-file-text-o",
+    "slug": "herramientas",
+    "title": "7. Herramientas en marroquinería.",
+    "breadcrumb": ["Inicio","Tema 7"],
+    "path": "pages/7-tema.html"
+  }, 
+  { 
+    "id": 1,
+    "icon": "fa fa-file-text-o",
+    "slug": "corte",
+    "title": "8. El corte. ",
+    "breadcrumb": ["Inicio","Tema 8"],
+    "path": "pages/8-tema.html",    
+    "submenu": [
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "corte",
+        "title": "8.1 El corte de la muestra de comprobación.",
+        "anchor": "81"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "corte",
+        "title": "8.2 Corte del forro.",
+        "anchor": "82"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "corte",
+        "title": "8.3 Corte del cuero.",
+        "anchor": "83"
+      }
+    ]
+  }, 
+  { 
+    "id": 1,
+    "icon": "fa fa-file-text-o",
+    "slug": "desbastado",
+    "title": "9. El desbastado en marroquinería.",
+    "breadcrumb": ["Inicio","Tema 9"],
+    "path": "pages/9-tema.html"
+  }
+]
